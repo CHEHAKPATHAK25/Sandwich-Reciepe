@@ -1,0 +1,1 @@
+In this project, I'll share my reciepe for making Sandwich with straightforward steps. I've made a folder via GitBash, cloned an empty repository, added files to that, commited them and then pushed them into GitHub. 
